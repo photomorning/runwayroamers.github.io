@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.runwayroamers.com
+Sitemap: https://www.runwayroamers.com/sitemap.xml

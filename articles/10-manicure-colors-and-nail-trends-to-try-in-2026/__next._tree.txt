@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/11w74nuz0jpxu.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"10-manicure-colors-and-nail-trends-to-try-in-2026","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WiFz1InqZ4TVaFtL0XgTw"}
