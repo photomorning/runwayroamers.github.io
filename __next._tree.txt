@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/11w74nuz0jpxu.css","style"]
+:HL["/_next/static/chunks/02g67xqznav4s.css","style"]
 :HL["https://shotkit.com/wp-content/uploads/2026/03/Father-and-Son-Photo-Poses-Fun-Natural-Ideas.jpg","image",{"fetchPriority":"high"}]
 :HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/outdoor-landscape-8b0150e3359ceacfe49a2e9f86cc8619-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
 :HL["/media/articles/how-ai-is-changing-color-grading-in-video-and-5-tools-worth-trying/01-thumb.avif","image",{"fetchPriority":"auto"}]
 :HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/AI-tools-to-run-a-photography-business-landscape-e54f8b9e1a2230aa3a23b863c80666d4-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"LjCGfUCbuHsF9LTfudMIQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cjc47CSIN4IME6rUIr4pM"}
